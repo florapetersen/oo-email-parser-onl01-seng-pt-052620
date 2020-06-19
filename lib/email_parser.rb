@@ -10,4 +10,7 @@ class EmailAddressParser
     @emails = email_list
     binding.pry
   end
+
+  def parse
+    
 end
